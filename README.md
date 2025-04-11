@@ -1,6 +1,6 @@
 ## Hi, I am Lisa 👋
 
-I’m a Computer Science student from Japan🗾 currently studying in Canada🍁 with a background as a project assistant and interpreter at a website company, where I discovered my passion for building tech-driven solutions. I’m a back-end focused, aspiring full-stack engineer specializing in the **MERN** stack (MongoDB, Express.js, React, Node.js) and **React Native**💻.
+I’m a Computer Science student from Japan🗾 currently studying in Canada🍁 with a background as a project assistant and interpreter at a website company, where I discovered my passion for building tech-driven solutions. I’m a back-end focused, aspiring full-stack engineer specializing in the **MERN** stack (MongoDB, Express.js, React, Node.js) 💻 and **React Native**📱.
 
 I’m actively seeking collaborations and tech internship opportunities where I can combine my technical skills with my strengths in communication and project coordination✨.
 
