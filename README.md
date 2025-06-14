@@ -5,7 +5,7 @@ I’m a Computer Science student from Japan🗾 currently studying in Canada🍁
 I’m actively seeking collaborations and tech internship opportunities where I can combine my technical skills with my strengths in communication and project coordination✨.
 
 Feel free to reach me out!<br>
-🔗 LinkedIn: [https://www.linkedin.com/in/lisa-kikuchi-n/](https://www.linkedin.com/in/lisa-kikuchi-n/)
+🔗 [LinkedIn](https://www.linkedin.com/in/lisa-kikuchi-n/)
 
 <!--
 **lisakikuch/lisakikuch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
