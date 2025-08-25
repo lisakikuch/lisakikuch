@@ -1,11 +1,33 @@
 ## Hi, I am Lisa 👋
 
-I’m a Computer Science student from Japan🗾 currently studying in Canada🍁 with a background as a project assistant and interpreter at a website company, where I discovered my passion for building tech-driven solutions. I’m a back-end focused, aspiring full-stack engineer specializing in the **MERN** stack (MongoDB, Express.js, React, Node.js) 💻 and **React Native**📱.
+I’m a recent graduate of the Computer Programming Diploma at Humber Polytechnic (Aug 2025). My passion lies in backend-focused full-stack development and building scalable, user-centric applications.
 
-I’m actively seeking collaborations and tech internship opportunities where I can combine my technical skills with my strengths in communication and project coordination✨.
+Previously, I worked as a project assistant/interpreter at an e-commerce company, where I discovered my love for tech-driven solutions and strengthened my collaboration and project coordination skills.
 
-Feel free to reach me out!<br>
-🔗 [LinkedIn](https://www.linkedin.com/in/lisa-kikuchi-n/)
+
+### 🔧 Tech Stack
+
+- Languages & Frameworks: JavaScript, TypeScript, Python, React, React Native, Next.js, Node.js, Express.js, Django
+- Databases: MongoDB, SQL, Supabase
+- Other Skills: RESTful APIs, JWT Authentication, Git
+  
+
+### 💻 Projects
+📱 Finance Tracker App – React Native · Express · MongoDB · JWT <br />
+A mobile app for tracking income and expenses with authentication, charts, and monthly summaries.
+
+🔐 Secure Storage Platform – Next.js · Django · Supabase Auth <br />
+A secure file storage solution with authentication, role-based access control, and protected file handling.
+
+📓 Diary App – React Native · Express.js · MySQL <br />
+A personal diary app for writing entries, assigning moods and tags, and filtering entries by tags.
+
+
+### ✨ Currently Seeking
+I’m open to collaboration and software engineering internship opportunities where I can combine my technical expertise with my strengths in communication and project coordination.
+
+
+Feel free to reach me out! 🔗 [LinkedIn](https://www.linkedin.com/in/lisa-kikuchi-n/)
 
 <!--
 **lisakikuch/lisakikuch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
