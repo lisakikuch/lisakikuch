@@ -13,13 +13,13 @@ Previously, I worked as a project assistant/interpreter at an e-commerce company
   
 
 ### 💻 Projects
-📱 Finance Tracker App – React Native · Express · MongoDB · JWT <br />
+📱 [Finance Tracker App](https://github.com/lisakikuch/income_expense_tracker_mobile) – React Native · Express · MongoDB · JWT <br />
 A mobile app for tracking income and expenses with authentication, charts, and monthly summaries.
 
-🔐 Secure Storage Platform – Next.js · Django · Supabase Auth <br />
+🔐 [Secure Storage Platform](https://github.com/makoto0825/Secure_Storage_App) – Next.js · Django · Supabase Auth <br />
 A secure file storage solution with authentication, role-based access control, and protected file handling.
 
-📓 Diary App – React Native · Express.js · MySQL <br />
+📓 [Diary App](https://github.com/lisakikuch/diary_app) – React Native · Express.js · MySQL <br />
 A personal diary app for writing entries, assigning moods and tags, and filtering entries by tags.
 
 
