@@ -7,25 +7,22 @@ Previously, I worked as a project assistant/interpreter at an e-commerce company
 
 ### 🔧 Tech Stack
 
-- Languages & Frameworks: JavaScript, TypeScript, Python, React, React Native, Next.js, Node.js, Express.js, Django
-- Databases: MongoDB, SQL, Supabase
-- Other Skills: RESTful APIs, JWT Authentication, Git
+- Languages: JavaScript, TypeScript, Python, SQL
+- Frontend: React, React Native
+- Backend: Node.js, Express, REST APIs
+- Databases: MySQL, MongoDB
+- Testing: Vitest/Jest, Supertest
+- Cloud & Tooling: AWS (Cognito, Lambda, CDK), Git, GitHub Actions, Railway
+- Other: Prisma, Zod, JWT, Postman, JIRA/Confluence, Agile/Scrum
   
 
 ### 💻 Projects
-📱 [Finance Tracker App](https://github.com/lisakikuch/income_expense_tracker_mobile) – React Native · Express · MongoDB · JWT <br />
+
+📓 [Notion Tree](https://github.com/lisakikuch/notion-tree) – TypeScript | Express.js | MySQL | Prisma | AWS Cognito <br />
+A multi-tenant API for thoughts and tags management.
+
+💰 [Finance Tracker App](https://github.com/lisakikuch/income_expense_tracker_mobile) – React Native | Express | MongoDB | JWT <br />
 A mobile app for tracking income and expenses with authentication, charts, and monthly summaries.
-
-🔐 [Secure Storage Platform](https://github.com/makoto0825/Secure_Storage_App) – Next.js · Django · Supabase Auth <br />
-A secure file storage solution with authentication, role-based access control, and protected file handling.
-
-📓 [Diary App](https://github.com/lisakikuch/diary_app) – React Native · Express.js · MySQL <br />
-A personal diary app for writing entries, assigning moods and tags, and filtering entries by tags.
-
-
-### ✨ Currently Seeking
-I’m open to collaboration and software engineering internship opportunities where I can combine my technical expertise with my strengths in communication and project coordination.
-
 
 Feel free to reach me out! 🔗 [LinkedIn](https://www.linkedin.com/in/lisa-kikuchi-n/)
 
