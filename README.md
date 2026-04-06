@@ -1,9 +1,10 @@
 ## Hi, I am Lisa 👋
 
-I’m a recent graduate of the Computer Programming Diploma at Humber Polytechnic (Aug 2025). My passion lies in backend-focused full-stack development and building scalable, user-centric applications.
+I am a Backend-focused developer with experience in Node.js, TypeScript, React and AWS, currently working as a Full-stack Developer Intern at an EV tech startup. I enjoy working in agile teams, contributing to discussions, and learning new technologies. 
 
 Previously, I worked as a project assistant/interpreter at an e-commerce company, where I discovered my love for tech-driven solutions and strengthened my collaboration and project coordination skills.
 
+I am looking for the opportunities to contribute, learn and grow while applying my skills and experience.
 
 ### 🔧 Tech Stack
 
@@ -12,7 +13,7 @@ Previously, I worked as a project assistant/interpreter at an e-commerce company
 - Backend: Node.js, Express, REST APIs
 - Databases: MySQL, MongoDB
 - Testing: Vitest/Jest, Supertest
-- Cloud & Tooling: AWS (Cognito, Lambda, CDK), Git, GitHub Actions, Railway
+- Cloud & Tooling: AWS (Cognito, Lambda), Git, GitHub Actions, Railway
 - Other: Prisma, Zod, JWT, Postman, JIRA/Confluence, Agile/Scrum
   
 
