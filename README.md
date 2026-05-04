@@ -1,6 +1,6 @@
 ## Hi, I am Lisa 👋
 
-I am a Backend-focused developer with experience in Node.js, TypeScript, React and AWS, currently working as a Full-stack Developer Intern at an EV tech startup. I enjoy working in agile teams, contributing to discussions, and learning new technologies. 
+I am a full-stack developer with experience in Node.js, TypeScript, React and AWS, currently working as a Frontend Developer Intern at an EV tech startup. I enjoy working in agile teams, contributing to discussions, and learning new technologies. 
 
 Previously, I worked as a project assistant/interpreter at an e-commerce company, where I discovered my love for tech-driven solutions and strengthened my collaboration and project coordination skills.
 
